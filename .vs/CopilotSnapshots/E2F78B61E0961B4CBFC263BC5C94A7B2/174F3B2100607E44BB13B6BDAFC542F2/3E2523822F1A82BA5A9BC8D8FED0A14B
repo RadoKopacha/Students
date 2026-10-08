@@ -1,0 +1,45 @@
+﻿namespace Car
+{
+    using System;
+
+    public class Vehicle
+    {
+        // Brand – марка
+        public string Brand { get; set; }
+        // Speed – максимална скорост
+        public int Speed { get; set; }
+
+        // Създайте метод Move(), който извежда съобщение, че превозното средство се движи.
+        public virtual void Move()
+        {
+            Console.WriteLine($"{Brand} (max speed {Speed} km/h) is moving.");
+        }
+    }
+
+    // Създайте производен клас Bicycle, който наследява Vehicle.
+    public class Bicycle : Vehicle
+    {
+        // В класа Bicycle предефинирайте метода Move(), така че да извежда различно съобщение.
+        public override void Move()
+        {
+            Console.WriteLine($"{Brand} bicycle is pedaling (max speed {Speed} km/h).\n");
+        }
+    }
+
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            // Create a Vehicle and a Bicycle, then call Move() on both
+            Vehicle vehicle = new Vehicle { Brand = "Generic Car", Speed = 150 };
+            Bicycle bicycle = new Bicycle { Brand = "Touring Bike", Speed = 30 };
+
+            vehicle.Move();
+            bicycle.Move();
+
+            // The outputs demonstrate method overriding: Bicycle.Move() provides a different message.
+            // Keep console open when running outside debugger
+            // (optional) Console.ReadLine();
+        }
+    }
+}

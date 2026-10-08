@@ -1,0 +1,14 @@
+C:\Users\1212-1\Documents\Radoslav 12a\Student\Figure\bin\Debug\net10.0\Figure.exe
+C:\Users\1212-1\Documents\Radoslav 12a\Student\Figure\bin\Debug\net10.0\Figure.deps.json
+C:\Users\1212-1\Documents\Radoslav 12a\Student\Figure\bin\Debug\net10.0\Figure.runtimeconfig.json
+C:\Users\1212-1\Documents\Radoslav 12a\Student\Figure\bin\Debug\net10.0\Figure.dll
+C:\Users\1212-1\Documents\Radoslav 12a\Student\Figure\bin\Debug\net10.0\Figure.pdb
+C:\Users\1212-1\Documents\Radoslav 12a\Student\Figure\obj\Debug\net10.0\Figure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1212-1\Documents\Radoslav 12a\Student\Figure\obj\Debug\net10.0\Figure.AssemblyInfoInputs.cache
+C:\Users\1212-1\Documents\Radoslav 12a\Student\Figure\obj\Debug\net10.0\Figure.AssemblyInfo.cs
+C:\Users\1212-1\Documents\Radoslav 12a\Student\Figure\obj\Debug\net10.0\Figure.csproj.CoreCompileInputs.cache
+C:\Users\1212-1\Documents\Radoslav 12a\Student\Figure\obj\Debug\net10.0\Figure.dll
+C:\Users\1212-1\Documents\Radoslav 12a\Student\Figure\obj\Debug\net10.0\refint\Figure.dll
+C:\Users\1212-1\Documents\Radoslav 12a\Student\Figure\obj\Debug\net10.0\Figure.pdb
+C:\Users\1212-1\Documents\Radoslav 12a\Student\Figure\obj\Debug\net10.0\Figure.genruntimeconfig.cache
+C:\Users\1212-1\Documents\Radoslav 12a\Student\Figure\obj\Debug\net10.0\ref\Figure.dll

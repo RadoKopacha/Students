@@ -1,0 +1,14 @@
+C:\Users\1212-1\Documents\Radoslav 12a\Student\Car\bin\Debug\net10.0\Car.exe
+C:\Users\1212-1\Documents\Radoslav 12a\Student\Car\bin\Debug\net10.0\Car.deps.json
+C:\Users\1212-1\Documents\Radoslav 12a\Student\Car\bin\Debug\net10.0\Car.runtimeconfig.json
+C:\Users\1212-1\Documents\Radoslav 12a\Student\Car\bin\Debug\net10.0\Car.dll
+C:\Users\1212-1\Documents\Radoslav 12a\Student\Car\bin\Debug\net10.0\Car.pdb
+C:\Users\1212-1\Documents\Radoslav 12a\Student\Car\obj\Debug\net10.0\Car.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1212-1\Documents\Radoslav 12a\Student\Car\obj\Debug\net10.0\Car.AssemblyInfoInputs.cache
+C:\Users\1212-1\Documents\Radoslav 12a\Student\Car\obj\Debug\net10.0\Car.AssemblyInfo.cs
+C:\Users\1212-1\Documents\Radoslav 12a\Student\Car\obj\Debug\net10.0\Car.csproj.CoreCompileInputs.cache
+C:\Users\1212-1\Documents\Radoslav 12a\Student\Car\obj\Debug\net10.0\Car.dll
+C:\Users\1212-1\Documents\Radoslav 12a\Student\Car\obj\Debug\net10.0\refint\Car.dll
+C:\Users\1212-1\Documents\Radoslav 12a\Student\Car\obj\Debug\net10.0\Car.pdb
+C:\Users\1212-1\Documents\Radoslav 12a\Student\Car\obj\Debug\net10.0\Car.genruntimeconfig.cache
+C:\Users\1212-1\Documents\Radoslav 12a\Student\Car\obj\Debug\net10.0\ref\Car.dll
